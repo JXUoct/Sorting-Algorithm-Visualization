@@ -1,0 +1,17 @@
+header {
+    /* border-style: solid;
+    border-width: 1px; */
+    background-color: #daf1f7;
+    color: #131921;
+    height: 70px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 35px;
+    font-weight:700;
+    display: flex;
+    align-items: center;
+    padding: 15px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
